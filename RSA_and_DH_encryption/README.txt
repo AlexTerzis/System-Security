@@ -2,12 +2,6 @@ A.M. 201303014 Terzis Alexandros
 
 gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
 
-
-========GENERAL=========
--I use the template of exercise exercise 4 from last year, for the core of the tools.
--I used MAKEFILE of exercise 4 from last year and modified it to compile this year's tools.
-========================
-
 =========RSA=========
 
 -To save and read the keys I use the functions mpz_inp_raw and mpz_out_raw 
